@@ -1,0 +1,5 @@
+﻿
+@kitap<>Beyaz Anılar<>Nurşen Üçkan<>Anlatı<>15.00<>EPİZOT YAYINLARI
+@kitap<>Masum<>Gerard Depardieu<>Eleştiri<>14.81<>İYİ KİTAP
+@kitap<>Bab-ı Ali’den İkitelli’ye Camlı Köşk<>Uluğ Örs<>Biyografi-Otobiyografi<>14.80<>NEMESİS KİTAP
+@kitap<>31 Şarkı<>Nick Hornby<>Deneme(çeviri)<>6.94<>SEL YAYINCILIK

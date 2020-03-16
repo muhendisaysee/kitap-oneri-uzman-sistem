@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="KitapOneriUzmanSistem_1_1.jnlp">
+  <information>
+    <title>KitapOneriUzmanSistem_1_1</title>
+    <vendor>hp</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="KitapOneriUzmanSistem_1_1.jar" size="21218" download="eager" />
+    <jar href="lib\jsoup-1.12.1-javadoc.jar" size="1150759" download="eager" />
+    <jar href="lib\jsoup-1.12.1.jar" size="397112" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.23-bin.jar" size="834126" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="KitapOneriUzmanSistem_1_1" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="kitaponeriuzmansistem.KitapOneriUzmanSistem"  name="KitapOneriUzmanSistem_1_1" />
+  <update check="always"/>
+</jnlp>

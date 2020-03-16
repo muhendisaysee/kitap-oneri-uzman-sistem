@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="760.0" prefWidth="1360.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kitaponeriuzmansistem.FXMLDocumentController">
+    <children>
+        <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+      <Button defaultButton="true" layoutX="379.0" layoutY="251.0" mnemonicParsing="false" onAction="#veriAl" prefHeight="169.0" prefWidth="196.0" text="VERİLERİ AL">
+         <effect>
+            <DropShadow />
+         </effect></Button>
+      <Button defaultButton="true" layoutX="729.0" layoutY="249.0" mnemonicParsing="false" onAction="#oneriSistemi" prefHeight="169.0" prefWidth="196.0" text="ÖNERİ SİSTEMİ">
+         <cursor>
+            <Cursor fx:constant="NW_RESIZE" />
+         </cursor>
+         <effect>
+            <DropShadow />
+         </effect></Button>
+    </children>
+</AnchorPane>
